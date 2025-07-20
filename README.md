@@ -1,2 +1,2 @@
-# hello-world
-Practice simple console app refresher
+# Custom Welcome message "XX"
+Simple console app refresher
