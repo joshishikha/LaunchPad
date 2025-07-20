@@ -1,2 +1,2 @@
 # hello-world
-Practice
+Practice simple console app refresher
